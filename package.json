@@ -4,9 +4,20 @@
   "description": "A dark, sleek, and high-contrast VS Code theme with rich purples, obsidian charcoals, and vivid magenta/cyan highlights.",
   "version": "0.0.1",
   "icon":"icon.png",
-  "publisher": "your-publisher-name",
+  "publisher": "Ruvaaaaaa",
+  "repository": {
+    "type": "git",
+    "url": " https://github.com/Ruvaaa/midnight-orchid-vscode-theme"
+  },
+  "keywords": [
+    "theme",
+    "purple",
+    "midnight",
+    "dark theme",
+    "blue and purple theme"
+  ],
   "engines": {
-    "vscode": "^1.125.0"
+    "vscode": "^1.125.0" 
   },
   "categories": [
     "Themes"
