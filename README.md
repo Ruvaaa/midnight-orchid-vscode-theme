@@ -1,9 +1,5 @@
 # Midnight Orchid for Visual Studio Code
 
-[![Version](https://img.shields.io/visualstudio/marketplace/v/your-publisher-name.midnight-orchid?style=flat-square&color=F72585)](https://marketplace.visualstudio.com/items?itemName=your-publisher-name.midnight-orchid)
-[![Installs](https://img.shields.io/visualstudio/marketplace/i/your-publisher-name.midnight-orchid?style=flat-square&color=4CC9F0)](https://marketplace.visualstudio.com/items?itemName=your-publisher-name.midnight-orchid)
-[![License: MIT](https://img.shields.io/badge/License-MIT-7209B7.svg?style=flat-square)](LICENSE)
-
 A dark, sleek, and high-contrast VS Code theme with a hint of luxury. **Midnight Orchid** combines rich purples, dark obsidian charcoals, electric violet layers, and vivid magenta and cyan highlights to create an immersive, low-eyestrain editing environment.
 
 ---
