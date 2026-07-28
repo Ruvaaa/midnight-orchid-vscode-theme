@@ -1,0 +1,32 @@
+{
+  "name": "midnight-orchid",
+  "displayName": "Midnight Orchid",
+  "description": "A dark, sleek, and high-contrast VS Code theme with rich purples, obsidian charcoals, and vivid magenta/cyan highlights.",
+  "version": "0.0.1",
+  "publisher": "your-publisher-name",
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Orchid",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Orchid-color-theme.json"
+      }
+    ],
+    "configurationDefaults": {
+      "editor.cursorBlinking": "smooth",
+      "editor.cursorSmoothCaretAnimation": "on",
+      "editor.cursorStyle": "line",
+      "editor.renderLineHighlight": "all",
+      "editor.bracketPairColorization.enabled": true,
+      "editor.guides.bracketPairs": true,
+      "editor.guides.bracketPairsHorizontal": true,
+      "terminal.integrated.cursorBlinking": true
+    }
+  }
+}
