@@ -3,6 +3,7 @@
   "displayName": "Midnight Orchid",
   "description": "A dark, sleek, and high-contrast VS Code theme with rich purples, obsidian charcoals, and vivid magenta/cyan highlights.",
   "version": "0.0.1",
+  "icon":"icon.png",
   "publisher": "your-publisher-name",
   "engines": {
     "vscode": "^1.125.0"
