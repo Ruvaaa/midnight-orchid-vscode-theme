@@ -1,44 +1,45 @@
 {
-  "name": "dark-midnight-orchid",
-  "displayName": "Dark Midnight Orchid",
-  "description": "A dark, sleek, and high-contrast VS Code theme with rich purples, obsidian charcoals, and vivid magenta/cyan highlights.",
-  "version": "0.0.2",
-  "icon":"icon.png",
-  "publisher": "Ruvaaaaaa",
-  "repository": {
-    "type": "git",
-    "url": " https://github.com/Ruvaaa/midnight-orchid-vscode-theme"
-  },
-  "keywords": [
-    "theme",
-    "purple",
-    "midnight",
-    "dark theme",
-    "blue and purple theme"
-  ],
-  "engines": {
-    "vscode": "^1.125.0" 
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Midnight Orchid",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Midnight Orchid-color-theme.json"
-      }
+    "name": "dark-midnight-orchid",
+    "displayName": "Dark Midnight Orchid",
+    "description": "A dark, sleek, and high-contrast VS Code theme with rich purples, obsidian charcoals, and vivid magenta/cyan highlights.",
+    "version": "0.0.2",
+    "icon": "icon.png",
+    "publisher": "Ruvaaaaaa",
+    "repository": {
+        "type": "git",
+        "url": " https://github.com/Ruvaaa/midnight-orchid-vscode-theme"
+    },
+    "keywords": [
+        "theme",
+        "purple",
+        "midnight",
+        "dark theme",
+        "blue and purple theme"
     ],
-    "configurationDefaults": {
-      "editor.cursorBlinking": "smooth",
-      "editor.cursorSmoothCaretAnimation": "on",
-      "editor.cursorStyle": "line",
-      "editor.renderLineHighlight": "all",
-      "editor.bracketPairColorization.enabled": true,
-      "editor.guides.bracketPairs": true,
-      "editor.guides.bracketPairsHorizontal": true,
-      "terminal.integrated.cursorBlinking": true
-    }
-  }
+    "engines": {
+        "vscode": "^1.125.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Midnight Orchid",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Midnight Orchid-color-theme.json"
+            }
+        ],
+        "configurationDefaults": {
+            "editor.cursorBlinking": "smooth",
+            "editor.cursorSmoothCaretAnimation": "on",
+            "editor.cursorStyle": "line",
+            "editor.renderLineHighlight": "all",
+            "editor.bracketPairColorization.enabled": true,
+            "editor.guides.bracketPairs": true,
+            "editor.guides.bracketPairsHorizontal": true,
+            "terminal.integrated.cursorBlinking": true
+        }
+    },
+    "license": "MIT"
 }
